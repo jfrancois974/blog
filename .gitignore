@@ -3,14 +3,12 @@
 ### Example user template
 
 # IntelliJ project files
-
+.idea
 *.iml
 out
 gen
 
-.idea
-.gitignore
 
-.idea
+.gitignore
 
 .DS_Store.DS_Store
